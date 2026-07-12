@@ -1,0 +1,9 @@
+# Windows junk files
+Thumbs.db
+desktop.ini
+
+# SolidWorks temp/backup files
+~$*.SLDPRT
+~$*.SLDASM
+~$*.SLDDRW
+*.tmp
